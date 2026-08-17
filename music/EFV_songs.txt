@@ -24,3 +24,39 @@ song = {
         }
     }
 }
+
+song = {
+    name = "1492 Conquest of Paradise"
+    chance = {
+        modifier = { 
+            factor = 1
+        }
+    }
+}
+
+song = {
+    name = "Soviet March"
+    chance = {
+        modifier = { 
+            factor = 1
+        }
+    }
+}
+
+song = {
+    name = "Arthas entering Lordaeron"
+    chance = {
+        modifier = { 
+            factor = 1
+        }
+    }
+}
+
+song = {
+    name = "Game Of Thrones"
+    chance = {
+        modifier = { 
+            factor = 1
+        }
+    }
+}

@@ -12,3 +12,23 @@ music = {
     name = "Naruto"
     file = "Naruto.ogg"
 }
+
+music = {
+    name = "1492 Conquest of Paradise"
+    file = "1492 Conquest of Paradise.ogg"
+}
+
+music = {
+    name = "Soviet March"
+    file = "Soviet March.ogg"
+}
+
+music = {
+    name = "Arthas entering Lordaeron"
+    file = "Arthas entering Lordaeron.ogg"
+}
+
+music = {
+    name = "Game Of Thrones"
+    file = "Game Of Thrones.ogg"
+}
